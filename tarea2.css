@@ -1,0 +1,27 @@
+P{
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+}
+h1{
+    color: white;
+    text-transform: uppercase;
+    background-color: black;
+    
+}
+h2{
+    text-transform: uppercase;
+}
+h3{
+    text-transform: uppercase;
+}
+h4{
+    font-size: 19px;
+}
+ul{
+    color: red;
+    font-weight: bold;
+}
+.series{
+    color: green;
+}
